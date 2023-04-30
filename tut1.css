@@ -2,3 +2,16 @@ p {
   color: aqua;
   background-color: rosybrown;
 }
+/* CSS gives style to raw HTML
+It stands for Cascading Style Sheets
+CSS is used to give style to our web pages
+CSS is used to make websites responsive
+CSS takes the responsibility of design in your websites
+
+There are three ways to Add CSS-
+
+1.Inline CSS- CSS is added to the elements directly using the style attributes.
+2.Internal CSS- CSS is kept inside the head tags in <style> tags
+3.External CSS- CSS is kept separately inside a .CSS style sheet. It involves two steps-
+*First, write the CSS in.CSS file.
+*Include that CSS file to Markup.*/
